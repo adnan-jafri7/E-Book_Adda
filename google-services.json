@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131707469645",
+    "firebase_url": "https://bookadda-f7354.firebaseio.com",
+    "project_id": "bookadda-f7354",
+    "storage_bucket": "bookadda-f7354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131707469645:android:dc6493a4bf150cde880104",
+        "android_client_info": {
+          "package_name": "com.adnan.e_book_adda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131707469645-fskjc5m875bsr41bi9vg8o97l4uak7a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWcPmVQOom8zsI_2gSZAFs-f4_txxZt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131707469645-fskjc5m875bsr41bi9vg8o97l4uak7a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
